@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(curl -sL --max-time 15 \"https://mixkit.co/free-stock-video/cooking/\" -A \"Mozilla/5.0\")",
+      "Bash(curl -sL --max-time 15 \"https://commons.wikimedia.org/wiki/Category:Pasta\" -A \"Mozilla/5.0\")",
+      "Bash(command -v ffmpeg)",
+      "Bash(python:*)",
+      "Bash(cp \"/c/Users/USER/AppData/Local/Temp/frames/frame-dining.png\" \"g:/3D Website/.tmp-frames/dining.png\")",
+      "Bash(cp \"/c/Users/USER/AppData/Local/Temp/frames/frame-pasta.png\" \"g:/3D Website/.tmp-frames/pasta.png\")",
+      "Bash(cp \"/c/Users/USER/AppData/Local/Temp/frames/frame-cellar.png\" \"g:/3D Website/.tmp-frames/cellar.png\")",
+      "Bash(cp \"/c/Users/USER/AppData/Local/Temp/frames/frame-starters.png\" \"g:/3D Website/.tmp-frames/starters.png\")",
+      "Bash(cp \"/c/Users/USER/AppData/Local/Temp/frames/frame-pass.png\" \"g:/3D Website/.tmp-frames/pass.png\")"
+    ]
+  }
+}
